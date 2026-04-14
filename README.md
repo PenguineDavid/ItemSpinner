@@ -1,5 +1,9 @@
 # ItemSpinner
 
+**Copyright**: © 2026 David s all rights reserved.
+**Author**:    David S
+**License**:   PolyForm Noncommercial License 1.0.0
+
 **Item Spinner** is an MC Java edition spigot MC plugin.
 This plugin detects all "item display" entitys with the tag "spin", and spins them.
 You can summon an item display with the tag like this:
@@ -19,5 +23,3 @@ so in newer versions, I get around this using client side lerps(linear interpola
 on the client's machine. You can also configure the speed from the config.yml file in the repo.
 
 You can install this like any other spigot MC plugin.
-
-© 2026 David s all rights reserved.
