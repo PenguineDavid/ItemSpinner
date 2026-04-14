@@ -1,0 +1,6 @@
+name: SpinPlugin
+version: 1.0
+main: com.example.spinplugin.SpinPlugin
+api-version: 1.19
+description: Makes item displays with the "spin" tag rotate continuously.
+author: David S
