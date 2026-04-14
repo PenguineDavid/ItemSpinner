@@ -1,7 +1,9 @@
 # ItemSpinner
 
 **Copyright**: © 2026 David s all rights reserved.
+
 **Author**:    David S
+
 **License**:   PolyForm Noncommercial License 1.0.0
 
 **Item Spinner** is an MC Java edition spigot MC plugin.
