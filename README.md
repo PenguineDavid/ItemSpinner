@@ -17,3 +17,5 @@ and you can also scale them, using a command like this:
 At first I just had it tp the entity around the yaw axis, but that often dropped frames and was jittery,
 so in newer versions, I get around this using client side lerps(linear interpolations) to smoothly calculate the animation
 on the client's machine. You can also configure the speed from the config.yml file in the repo.
+
+You can install this like any other spigot MC plugin.
