@@ -19,3 +19,5 @@ so in newer versions, I get around this using client side lerps(linear interpola
 on the client's machine. You can also configure the speed from the config.yml file in the repo.
 
 You can install this like any other spigot MC plugin.
+
+© 2026 David s all rights reserved.
