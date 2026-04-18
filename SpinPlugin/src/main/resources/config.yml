@@ -1,3 +1,0 @@
-# Degrees rotated per server tick (20 ticks = 1 second)
-# Example: 5.0 deg/tick = 100 deg/s, 1.8 = 36 deg/s (one full rotation per 10s)
-rotation-speed-degrees-per-tick: 5.0
