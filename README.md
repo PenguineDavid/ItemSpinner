@@ -2,9 +2,9 @@
 
 **Copyright**: © 2026 David s all rights reserved.
 
-**Author**:    David S
+**Author**:    David S.
 
-**License**:   PolyForm Noncommercial License 1.0.0
+**License**:   MIT license.
 
 **Item Spinner** is an MC Java edition spigot MC plugin.
 This plugin detects all "item display" entitys with the tag "spin", and spins them.
