@@ -4,7 +4,7 @@
 
 **Author**:    David S.
 
-**License**:   MIT license.
+**License**:   MIT license https://github.com/PenguineDavid/ItemSpinner?tab=MIT-1-ov-file.
 
 **Item Spinner** is an MC Java edition spigot MC plugin.
 This plugin detects all "item display" entitys with the tag "spin", and spins them.
